@@ -1,0 +1,12 @@
+.root-controller {
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.nav-item {
+  padding: 20px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border:1px solid black;
+  cursor: pointer;
+}
