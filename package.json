@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://tfs.indikaenergy.co.id/Xapiens/FlatManagementSystem-ext/_git/fms-web"
+    "url": "https://github.com/alditiadika/webpack-template"
   },
   "keywords": [],
-  "author": "PT Xapiens Teknologi Indonesia",
-  "license": "ISC",
+  "author": "Randika Alditia",
+  "license": "",
   "dependencies": {
     "@babel/core": "^7.8.6",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
